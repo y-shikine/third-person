@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "xtech_1213_11827015",
+"productVersion": "0.1",
+"dataUrl": "thirdPERSON.data.unityweb",
+"wasmCodeUrl": "thirdPERSON.wasm.code.unityweb",
+"wasmFrameworkUrl": "thirdPERSON.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.15f1"
+}
